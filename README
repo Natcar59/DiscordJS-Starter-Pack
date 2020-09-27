@@ -1,0 +1,15 @@
+Voici le pack pour commencer un Bot discord.
+
+Tu peux trouver plusieurs dossiers dans le dossier 'src'.
+Tu as:
+   - main.js -> C'est le fichier principale où les choses importantes sont dedans.
+   - utils -> Dedans tu as les choses utiles comme le handler qui permet d'exporter nos commandes et évènements.
+   - events -> Dedans tu as les évènements
+   - commands -> Et là les commandes
+
+Tu peux bien sûr modifier certaines choses, ou supprimer, ou rajouter.
+Tu as ici la base d'un Bot Discord, donc après tu en fais ce que tu veux :)
+
+Pour démarrer le Bot, tu as avoir Node.JS sur ton pc et faire node src/main.js dans ton terminal.
+
+Auteur: Natcar
