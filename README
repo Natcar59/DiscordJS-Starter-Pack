@@ -10,6 +10,8 @@ Tu as:
 Tu peux bien sûr modifier certaines choses, ou supprimer, ou rajouter.
 Tu as ici la base d'un Bot Discord, donc après tu en fais ce que tu veux :)
 
-Pour démarrer le Bot, tu as avoir Node.JS sur ton pc et faire node src/main.js dans ton terminal.
+Dans ton terminal, tu vas dans le dossier avec les fichiers du Bot, tu vérifies si tu as NodeJS d'installer en faisant 'node -v'.
+Si tu l'as tu fais 'npm i' dans le dossier du bot dans ton terminal.
+Pour démarrer le Bot, tu fais node src/main.js dans ton terminal.
 
 Auteur: Natcar
